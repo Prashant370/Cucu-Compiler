@@ -42,5 +42,5 @@ This project consists of a lexer (`cucu.l`) and a parser (`cucu.y`) designed to 
 9. Boolean operations in function calls are not allowed.
 10. Allowed tokens include `ID`, `NUM`, `DATATYPE`, `RO`, `IF`, `ELSE`, `WHILE`, and `RET`.
 
-There are two sample files named `sample1.cu` and `sample2.cu` provided for testing the parser and lexer. After running, two files named `parser.txt` and `lexer.txt` will be generated.
+> **Note:**  There are two sample files named `sample1.cu` and `sample2.cu` provided for testing the parser and lexer. After running, two files named `parser.txt` and `lexer.txt` will be generated.
 
